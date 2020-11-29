@@ -1,1 +1,1 @@
-[GitHub](http://github.com)
+[My link](http://github.com)

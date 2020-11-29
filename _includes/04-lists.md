@@ -3,5 +3,7 @@ Replace this with a list of your favorite things.
 1. Rann of kutch 
 2. Rani ki vaav 
 3. Udaipur 
-    1. City Palace 
-    2. Lake Pichola
+   1. City Palace 
+   2. Lake Pichola
+* Indore 
+  - Malwa

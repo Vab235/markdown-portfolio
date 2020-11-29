@@ -1,12 +1,4 @@
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
-
- **My name is vihar** 
+**My name is vihar** 
 
 _I am a Mechanical Engineer_,
 _I am a __beginner__ in Programming_
